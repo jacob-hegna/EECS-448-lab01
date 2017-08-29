@@ -1,3 +1,5 @@
 Consider the set {S | S not contained in S}.
 
 Although clearly paradoxical, this set is excluded from ZFC by removing unrestricted comprehension.
+
+This set provides a proof that there is no set of all sets in ZFC.
